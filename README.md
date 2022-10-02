@@ -4,7 +4,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Gent-Zambaku/object-detector/blob/main/images/object_detector.gif)
+![Demo](https://github.com/Gent-Zambaku/object-detector/blob/main/images/object_detector.gif)
+
 
 ### What is object detection?
 Object detection is a computer vision technique that works to identify and locate objects within an image or video. Specifically, object detection draws bounding boxes around these detected objects, which allow us to locate where said objects are in (or how they move through) a given scene.
