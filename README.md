@@ -1,4 +1,4 @@
-# Real time object detector with computer vision
+# Real time object detector with deep learning for computer vision
 
 
 <!-- ABOUT THE PROJECT -->
