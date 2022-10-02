@@ -16,7 +16,7 @@ Image recognition assigns a label to an image. A picture of a dog receives the l
 
 This demo project shows how we can use deep learning (the inception model architecture) for real time object detection using python, tensorflow 2 and opencv. 
 
-* Python3 as programming language
-* Tensorflow 2 as ML framework
-* OpenCV as CV framework
-* A simple camera
+- [x] Python3 as programming language
+- [x] Tensorflow 2 as ML framework
+- [x] OpenCV as CV framework
+- [x] A simple camera
