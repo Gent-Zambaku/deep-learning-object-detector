@@ -34,11 +34,12 @@ _You can follow the installation steps below to run the app._
    cd object-detector
    ```
 3. Create a virtual environment
-   Using anaconda
+
+   Using anaconda:
    ```sh
    conda create -n detector python==3.9.1
    ```
-   Using python
+   Using python:
    ```sh
    pip3 install virtualenv
    python3 -m venv env
