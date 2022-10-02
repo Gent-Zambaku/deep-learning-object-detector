@@ -20,3 +20,44 @@ This demo project shows how we can use deep learning (the inception model archit
 - [x] Tensorflow 2 as ML framework
 - [x] OpenCV as CV framework
 - [x] A simple camera
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Gent-Zambaku/object-detector.git
+   ```
+2. Get inside the repository
+   ```sh
+   cd object-detector
+   ```
+3. Create a virtual environment
+   Using anaconda
+   ```sh
+   conda create -n detector python==3.9.1
+   ```
+   Using python
+   ```sh
+   pip install virtualenv
+   python3 -m venv env
+   source env/bin/activate
+   ```
+4. Install dependencies
+   ```sh
+   pip install -r requirements.txt
+   ```
+   or
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+5. Run the object detector
+   ```sh
+   python detector.py
+   ```
+   or
+      ```sh
+   python3 detector.py
+   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
