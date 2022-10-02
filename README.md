@@ -68,7 +68,9 @@ _You can follow the installation steps below to run the app._
 
 Very helpful resources for this demo project can be found here:
 
-* [Tensorflow Icons](https://github.com/tensorflow/models/tree/master/research)
+* [Tensorflow datasets](https://github.com/tensorflow/datasets)
+* [Tensorflow docs](https://github.com/tensorflow/docs)
+* [Tensorflow research](https://github.com/tensorflow/models/tree/master/research)
 
 
 Enjoy :)
