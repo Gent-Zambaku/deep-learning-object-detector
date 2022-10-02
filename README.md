@@ -62,5 +62,13 @@ _You can follow the installation steps below to run the app._
       ```sh
    python3 detector.py
    ```
+   
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Very helpful resources for this demo project can be found here:
+
+* [Tensorflow Icons](https://github.com/tensorflow/models/tree/master/research)
+
 
 Enjoy :)
