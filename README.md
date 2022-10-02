@@ -23,7 +23,7 @@ This demo project shows how we can use deep learning (the inception model archit
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_You can follow the installation steps below to run the app._
 
 1. Clone the repo
    ```sh
