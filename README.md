@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Feverything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e&psig=AOvVaw01uClrWdvlrT5OUUzqllH9&ust=1664814761006000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMD0ub78wfoCFQAAAAAdAAAAABAI)
+[![Product Name Screen Shot][product-screenshot]](https://miro.medium.com/max/1000/1*NLnnf_M4Nlm4p1GAWrWUCQ.gif)
 
 ### What is object detection?
 Object detection is a computer vision technique that works to identify and locate objects within an image or video. Specifically, object detection draws bounding boxes around these detected objects, which allow us to locate where said objects are in (or how they move through) a given scene.
