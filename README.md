@@ -40,7 +40,7 @@ _You can follow the installation steps below to run the app._
    ```
    Using python
    ```sh
-   pip install virtualenv
+   pip3 install virtualenv
    python3 -m venv env
    source env/bin/activate
    ```
