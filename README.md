@@ -28,11 +28,11 @@ _You can follow the installation steps below to run the app._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Gent-Zambaku/object-detector.git
+   git clone https://github.com/Gent-Zambaku/deep-learning-object-detector.git
    ```
 2. Get inside the repository
    ```sh
-   cd object-detector
+   cd deep-learning-object-detector
    ```
 3. Create a virtual environment
 
