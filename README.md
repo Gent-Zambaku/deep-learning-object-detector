@@ -39,6 +39,7 @@ _You can follow the installation steps below to run the app._
    Using anaconda:
    ```sh
    conda create -n detector python==3.9.1
+   conda activate detector
    ```
    Using python:
    ```sh
